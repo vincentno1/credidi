@@ -22,7 +22,7 @@
 參與 iOS 端的產品開發
 我們需要你：
 - 聰明、願意學習，擁有解決問題的能力
-- 擁有扎實的基本功（資料結構、基本算法、版本控制、Design Pattern）
+- 擁有扎實的基本功（資料結構、基本算法、git、Design Pattern）
 - 是個 Swift 高手（iOS 4年以上開發經驗）
 - 有客製化 UI 經驗
 - 熟悉 Cocoa Touch
@@ -30,7 +30,7 @@
 - 擁有 Multi-thread 開發經驗
 - 擁有 Networking API 串接經驗
 
-加分條件
+加分條件：
 - 有跑 Scrum 的經驗
 - 有獨立開發與上架 app 的經驗（請附上作品連結）
 
@@ -53,7 +53,7 @@
 我們需要你：
 
 - 聰明、願意學習，擁有解決問題的能力
-- 擁有扎實的基本功（資料結構、基本算法、版本控制、Design Pattern）
+- 擁有扎實的基本功（資料結構、基本算法、git、Design Pattern）
 - 是個 Kotlin 高手（Android 4年以上開發經驗）
 - 擁有客製化 UI 經驗
 - 熟悉 Android 整合開發環境
@@ -61,7 +61,7 @@
 - 熟悉 Android Multi Thread 開發應用
 - Networking API 串接經驗
 
-加分條件
+加分條件：
 - 有跑 Scrum 的經驗
 - 有獨立開發與上架 app 的經驗（請附上作品連結）
 
